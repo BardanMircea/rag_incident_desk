@@ -1,4 +1,4 @@
-# RAG Incident Desk - Backend (Spring Boot)
+# RAG Help Desk - Backend (Spring Boot)
 
 ## Présentation
 
